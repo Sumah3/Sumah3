@@ -1,4 +1,4 @@
-### 2nd year Comp Sci Student at VCNB South Africa :)
+### 2nd year Comp Sci Student in South Africa :)
 
 
 
