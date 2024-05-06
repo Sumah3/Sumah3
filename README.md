@@ -1,4 +1,6 @@
-### Hi there 👋
+### 2nd year Comp Sci Student at VCNB South Africa :)
+
+
 
 <!--
 **Sumah3/Sumah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
