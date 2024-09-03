@@ -1,6 +1,11 @@
 ### 2nd year Comp Sci Student in South Africa :)
 
+<img align="left" src="https://github.com/Sumah3/Sumah3/blob/main/OIP%20(7).jpg" width=10% height=10%>
+<p>  ABOUT ME :</p>  
+<p> skills : JAVA | C# | HTML | CSS </p>
+<p> hobbies : drawing , modding, 3d stuff </p>
 
+<br clear="left"/>
 
 <!--
 **Sumah3/Sumah3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
